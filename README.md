@@ -13,13 +13,13 @@ This course, taught by Dr. Karl Ho at The University of Texas at Dallas, introdu
 ### Main Components
 
 #### Data Collection and Cleaning
-- **Data Sources:** Collected data from various medical centers and [政府公開平台] (https://data.gov.tw).
+- **Data Sources:** Collected data from various medical centers and ！[政府公開平台](https://data.gov.tw).
 - **Data Cleaning:** Performed data cleaning and preprocessing to ensure data quality.
 
 #### Database Design
 - **Schema:** Designed a relational database schema to store the data effectively.
 
-![Schema](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/schema.jpeg)
+![Schema](schema.jpg)
 
 #### Query and Analysis
 - **SQL Queries:** Developed SQL queries to analyze prescription data and extract meaningful insights.
@@ -27,7 +27,7 @@ This course, taught by Dr. Karl Ho at The University of Texas at Dallas, introdu
 #### Visualization
 - **Dashboard:** Created an interactive dashboard to visualize the analysis results.
 
-![Dashboard Preview](https://github.com/Jimpan0612/Information-Management-EPPS-6354-/blob/main/dashboard_preview.jpeg)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
