@@ -25,7 +25,7 @@ This course, taught by Dr. Karl Ho at The University of Texas at Dallas, introdu
 - **SQL Queries:** Developed SQL queries to analyze prescription data and extract meaningful insights.
 
 #### Visualization
-- **Dashboard:** Created an interactive dashboard to visualize the analysis results.
+- **Dashboard:** Created an interactive dashboard to visualize the analysis results. The final dashboard was also uploaded to [shinyapps.io](https://jimpan0612.shinyapps.io/6354_program/).
 
 ![Dashboard Preview](dashboard_preview.png)
 
