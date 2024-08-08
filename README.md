@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This course, taught by Dr. Karl Ho at The University of Texas at Dallas, introduces database systems' concepts, design, programming, and management. Students will learn about traditional relational databases, PostgreSQL, and various modern database systems. The course emphasizes practical skills in designing, creating, and managing database systems through intensive database programming and application building.
+This course, taught by Dr. Karl Ho at The University of Texas at Dallas, introduces database systems' concepts, design, programming, and management. Students will learn about traditional relational databases, PostgreSQL, and modern database systems. The course emphasizes practical skills in designing, creating, and managing database systems through intensive database programming and application building.
 
 ## Final Project
 
@@ -25,7 +25,7 @@ This course, taught by Dr. Karl Ho at The University of Texas at Dallas, introdu
 - **SQL Queries:** Developed SQL queries to analyze prescription data and extract meaningful insights.
 
 #### Visualization
-- **Dashboard:** Created an interactive dashboard to visualize the analysis results. The final dashboard was also uploaded to [shinyapps.io](https://jimpan0612.shinyapps.io/6354_program/).
+- **Dashboard:** Created an interactive dashboard to visualize the analysis results. The final dashboard was also uploaded to [shinyapps.io](https://jimpan0612.shinyapps.io/6354_program/). The server will hibernate if it is not used for a long time.  
 
 ![Dashboard Preview](dashboard_preview.png)
 
