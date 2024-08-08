@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This course, taught by Dr. Karl Ho at The University of Texas at Dallas, introduces database systems' concepts, design, programming, and management. Students will learn about traditional relational databases, PostgreSQL, and modern database systems. The course emphasizes practical skills in designing, creating, and managing database systems through intensive database programming and application building.
+This course, taught by Dr. Karl Ho, introduces database systems' concepts, design, programming, and management. Students will learn about traditional relational databases, PostgreSQL, and modern database systems. The course emphasizes practical skills in designing, creating, and managing database systems through intensive database programming and application building.
 
 ## Final Project
 
